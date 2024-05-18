@@ -19,6 +19,10 @@ class ComposerStaticInit5869778a64c47e0523c70172b53af7eb
             'Symfony\\Polyfill\\Mbstring\\' => 26,
             'Symfony\\Polyfill\\Ctype\\' => 23,
         ),
+        'R' => 
+        array (
+            'Route\\' => 6,
+        ),
         'Q' => 
         array (
             'QueryBuilder\\' => 13,
@@ -62,6 +66,10 @@ class ComposerStaticInit5869778a64c47e0523c70172b53af7eb
         'Symfony\\Polyfill\\Ctype\\' => 
         array (
             0 => __DIR__ . '/..' . '/symfony/polyfill-ctype',
+        ),
+        'Route\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/route',
         ),
         'QueryBuilder\\' => 
         array (
