@@ -6,7 +6,7 @@
             "Config\\":"config/",
             "QueryBuilder\\": "App/queryBuilder/",
             "HandleError\\": "App/handleError/",
-            "Route\\":"route/"
+            "Route\\":"routes/"
         }
     },
     "require": {

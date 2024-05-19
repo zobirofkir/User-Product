@@ -69,7 +69,7 @@ class ComposerStaticInit5869778a64c47e0523c70172b53af7eb
         ),
         'Route\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/route',
+            0 => __DIR__ . '/../..' . '/routes',
         ),
         'QueryBuilder\\' => 
         array (

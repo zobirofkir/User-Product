@@ -9,7 +9,7 @@ return array(
     'Symfony\\Polyfill\\Php80\\' => array($vendorDir . '/symfony/polyfill-php80'),
     'Symfony\\Polyfill\\Mbstring\\' => array($vendorDir . '/symfony/polyfill-mbstring'),
     'Symfony\\Polyfill\\Ctype\\' => array($vendorDir . '/symfony/polyfill-ctype'),
-    'Route\\' => array($baseDir . '/route'),
+    'Route\\' => array($baseDir . '/routes'),
     'QueryBuilder\\' => array($baseDir . '/App/queryBuilder'),
     'PhpOption\\' => array($vendorDir . '/phpoption/phpoption/src/PhpOption'),
     'Model\\' => array($baseDir . '/App/models'),

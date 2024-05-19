@@ -5,7 +5,7 @@ use Config\Config;
 use Controller\ProductController;
 use Controller\UserController;
 
-class Route extends Config
+class Routes extends Config
 {
     private $userController;
     private $productController;
